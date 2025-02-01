@@ -77,6 +77,13 @@ gcc main_prg.c -o main.exe && ./main.exe
 
 ---
 
+## 🖥️ Sample Output
+
+Here is an example of the program execution:
+
+![Sample Output](screenshots/Sample_output.jpg)
+
+
 ## 👨‍💻 **Contributors**  
 🔹 **Abhilash G**  
 🔹 **Md Faizan Ansari**  
